@@ -2,18 +2,15 @@
 templateKey: index-page
 title: Yik Wei Ang
 image: /img/18527105_10154395877536875_647584406045215934_o.jpg
-heading: What is up
+heading: Keep up with Me
 subheading: Management Information Systems
 mainpitch:
-  title: Who Am I?
-  description: >
-    Hi my name is Yik, MIS major, and tech enthusistic aka I cant spell but this
-    is a placeholder.
+  title: 'Hi, my name is Yik.'
+  description: |
+    I am a tech consultant.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  I love learning new ideas and technologies and using them for real-world
+  applications.
 intro:
   blurbs:
     - image: /img/coffee.png
